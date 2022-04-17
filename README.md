@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vertrauensstellung
 - 👀 I’m interested in webhook, football and learning python.
 - 🌱 I’m currently learning powershell.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on powershell & bash projects
 - 📫 How to reach me ...
 
 <!---
