@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vertrauensstellung
-- 👀 I’m interested in webhook, football and learning python.
+- 👀 I’m interested in webhook, football and learning python and trying to get some knowledge in the metaverse & crypto.
 - 🌱 I’m currently learning powershell & Azure.
 - 💞️ I’m looking to collaborate on powershell & bash projects.
 - 📫 How to reach me: Discord - Vertrauensstellung#8526
