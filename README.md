@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports.
 - 🌱 I’m currently learning python & LLM.
 - 💞️ I’m looking to collaborate on Python, Powershell, Docker & Bash projects.
-- 📫 How to reach me: Discord
+- 📫 How to reach me: Discord vertrauensstellung
 
 <!---
 Vertrauensstellung/Vertrauensstellung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
