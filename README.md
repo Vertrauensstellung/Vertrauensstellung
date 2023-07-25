@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vertrauensstellung
-- 👀 I’m interested in webhook, football and learning python and trying to get some knowledge in the metaverse & crypto.
-- 🌱 I’m currently learning powershell & Azure.
-- 💞️ I’m looking to collaborate on powershell & bash projects.
-- 📫 How to reach me: Discord - Vertrauensstellung#8526
+- 👀 I’m interested in sports.
+- 🌱 I’m currently learning python & LLM.
+- 💞️ I’m looking to collaborate on Python, Powershell, Docker & Bash projects.
+- 📫 How to reach me: Discord
 
 <!---
 Vertrauensstellung/Vertrauensstellung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
